@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="569433e0-1d7e-4539-ba65-030e34174bd1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LabTask2t.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LabTask3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LabTask4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LabTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabTask2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabTask3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabTask4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabTask4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LabTask5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabTask5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LabTask2t">
+  <component name="RunManager" selected="Application.LabTask5">
     <configuration name="LabTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LabTask1" />
       <module name="Module5" />
@@ -60,15 +61,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice4" />
+    <configuration name="LabTask3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabTask3" />
       <module name="Module5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice5" />
+    <configuration name="LabTask4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabTask4" />
+      <module name="Module5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LabTask5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabTask5" />
       <module name="Module5" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LabTask2t" />
+        <item itemvalue="Application.LabTask5" />
+        <item itemvalue="Application.LabTask4" />
+        <item itemvalue="Application.LabTask3" />
         <item itemvalue="Application.LabTask2" />
         <item itemvalue="Application.LabTask1" />
-        <item itemvalue="Application.Practice5" />
-        <item itemvalue="Application.Practice4" />
       </list>
     </recent_temporary>
   </component>
@@ -121,13 +129,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707937020797</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2/14/2024 2:04">
+      <created>1707937485924</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707937485924</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2/9/2024 2:02" />
     <MESSAGE value="2/13/2024 1:55" />
     <MESSAGE value="2/14/2024 1:56" />
-    <option name="LAST_COMMIT_MESSAGE" value="2/14/2024 1:56" />
+    <MESSAGE value="2/14/2024 2:04" />
+    <option name="LAST_COMMIT_MESSAGE" value="2/14/2024 2:04" />
   </component>
 </project>

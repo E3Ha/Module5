@@ -29,7 +29,7 @@ public class LabTask2 {
                     gasPrice = scan.nextDouble();
                     cost = (100 / fuelEffic) * gasPrice;
                     System.out.println("The total cost to drive 100 miles is: " + cost);
-                    //distance =
+                    distance = gallonsInTank * fuelEffic;
                     System.out.println("The total distance you can travel currently is: " + distance);
 
                 }
