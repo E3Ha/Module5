@@ -36,7 +36,7 @@ public class LabTask5 {
 
                 System.out.println("Incorrect! Go higher next time.");
                 System.out.println("Your Guess: " + userGuess);
-                System.out.println("The Computer's Number: " + randomNum);
+                System.out.println("Computer's Number: " + randomNum);
 
             }
 
